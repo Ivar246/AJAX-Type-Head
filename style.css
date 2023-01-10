@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #ffc600;
+  background-color: #160d5a91;
 }
 
 h1 {
@@ -38,8 +38,7 @@ input {
   top: 10px;
   z-index: 2;
   border-radius: 5px;
-  font-size: 40px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.19);
+  font-size: 30px;
 }
 
 .suggestions {
